@@ -2,10 +2,10 @@ def find_element_index(array, value_to_find)
   newarray = array
   value = value_to_find
  
-
-   puts newarray.index[value]
+  while newarray[value] do
+    puts newarray.index
     
- 
+ end
 end
 
 def find_max_value(array)
