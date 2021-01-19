@@ -3,7 +3,7 @@ def find_element_index(array, value_to_find)
   value = value_to_find
  
 
- newarray.findindex(2)
+ array.value_to_find(2)
  
     
  
