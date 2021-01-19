@@ -9,10 +9,12 @@ end
 def find_max_value(array)
   newarray = array
 
-  p newarray.find_index(value)
-  # Add your solution here
+  p newarray.min
+
 end
 
 def find_min_value(array)
-  # Add your solution here
+  newarray = array
+
+  p newarray.max
 end
