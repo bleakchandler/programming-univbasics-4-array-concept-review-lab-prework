@@ -3,7 +3,7 @@ def find_element_index(array, value_to_find)
   value = value_to_find
  
   while newarray[value] do
-    puts newarray.index
+     newarray.find_element_index(value)
     
  end
 end
