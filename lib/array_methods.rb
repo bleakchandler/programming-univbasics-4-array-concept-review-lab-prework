@@ -2,7 +2,7 @@ def find_element_index(array, value_to_find)
   newarray = array
   value = value_to_find
  
- puts newarray[value].index
+ puts newarray[value]
  
     
  
